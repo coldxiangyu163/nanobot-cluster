@@ -1,0 +1,9 @@
+name: pv-agent
+hub: http://localhost:9100
+capabilities:
+  - Frontend optimization
+  - GitHub Pages deployment
+  - SEO optimization
+  - Prompt curation
+focus: PromptVault project maintenance
+# endpoint: http://localhost:9201  # optional: for receiving messages
